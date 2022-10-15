@@ -13,22 +13,24 @@
 
 > ## Punto de mantenimiento
 
-Se creó un punto en el espacio de trabajo donde en el laboratorio fuera sencillo el cambio de la herramienta, posteriormente se creó una trayectoria para ir a este punto como se muestra en la imagen
-
-
-![WhatsApp Image 2022-10-06 at 2 12 47 PM](https://user-images.githubusercontent.com/68668422/194559300-9a54eacd-26aa-4fae-93b0-955d447077c6.jpeg)
 
 
 > ## Colocar el funcionamiento de los botones 
 
-Para el desarrollo del funcionamiento de los botones se siguió la guía de laboratorio colocando las respectivas entradas y salidas
-Esto se ve desarrollado en el main que se muestra a continuación
 
-![WhatsApp Image 2022-10-06 at 2 10 51 PM](https://user-images.githubusercontent.com/68668422/194710129-44c7ff1f-834d-4398-b822-08217d58bdc7.jpeg)
 
 > ## Resultado 
 
-Para obtener el resultado se pasaron los datos por medio de la usb al flex pendant y verificó el funcionamiento utilizando los botones. Esto se evidencia en el siguiente video.
 
 
-https://user-images.githubusercontent.com/68668422/194212007-2602820f-b9a7-4833-accd-4bd9cd6b4dfd.mp4
+![WhatsApp Image 2022-10-14 at 4 14 28 PM](https://user-images.githubusercontent.com/68668422/196011269-9272b426-2255-4be2-a015-2875ad0d804b.jpeg)
+
+
+https://user-images.githubusercontent.com/68668422/196011297-8d86ad41-814a-4f38-b1d9-553ff0dfab27.mp4
+
+
+
+https://user-images.githubusercontent.com/68668422/196011293-479089bc-00ba-41f3-8f41-30927088b858.mp4
+
+
+
