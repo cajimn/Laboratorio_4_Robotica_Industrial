@@ -61,7 +61,7 @@ Se procede a ejcutar el launch
 ```shell
 roslaunch px_robot px_controllers.launch
 ```
-Por último se abre la aplicación vs Code para ejecutar el programa de Python [jointPub](scripts/jointPub.m)
+Por último se abre la aplicación vs Code para ejecutar el programa de Python [jointPub](scripts/jointPub.m). En esta se usa el tópico joint
 
 > ## Resultado 
 
