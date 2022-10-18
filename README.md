@@ -61,7 +61,7 @@ Se procede a ejcutar el launch
 ```shell
 roslaunch px_robot px_controllers.launch
 ```
-Por último se abre la aplicación vs Code para ejecutar el programa de Python [jointPub](scripts/jointPub.m). En esta se usa el tópico `joint_trajectory` y se crea su respectivo Publisher para actualizar las posiciones de las articulaciones del robot. El programa permite que el robot se dirija a las posiciones deseadas presionando una tecla determinada, indicandole el valor de cada articulación. Se tienen 5 teclas (a,s,d,f,h) para las 5 posiciones dadas en la guía de laboratorio y la tecla q para ir a HOME; además de unas teclas programadas (g,j,k,l,p) que dirigen el robot desde HOME (0,0,0,0,0) hasta una posición () articulación por articulación.  
+Por último se abre la aplicación vs Code para ejecutar el programa de Python [jointPub](scripts/jointPub.py). En esta se usa el tópico `joint_trajectory` y se crea su respectivo Publisher para actualizar las posiciones de las articulaciones del robot. El programa permite que el robot se dirija a las posiciones deseadas presionando una tecla determinada, indicandole el valor de cada articulación. Se tienen 5 teclas (a,s,d,f,h) para las 5 posiciones dadas en la guía de laboratorio y la tecla q para ir a HOME; además de unas teclas programadas (g,j,k,l,p) que dirigen el robot desde HOME (0,0,0,0,0) hasta una posición (30°,-30°,30°,-30°,10°) articulación por articulación.  
 
 > ## Resultado 
 
