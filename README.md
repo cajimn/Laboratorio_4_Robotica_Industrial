@@ -19,7 +19,44 @@ Se determina los TCP de todas lasartivulaciones de robot, como se ve en la image
 > ## Programa Python.
 Se realiza la conexión entre dinamyxel y el programa creado en python, el cuál ejecuta con teclas, cada una de las posiciones establecidas en la guía de laboratorio. 
 
+Para la conexión con Python se debe realizar la siguiente configuración en la terminal:
 
+Primero se crea el paquete de catkin, en este caso la carpeta ctakin_ws
+
+```shell
+cd ~
+mkdir catkin_ws
+cd catkin_ws
+mkdir src
+catkin build
+```
+
+Luego se clona el repositorio de px.robot, para tener una guía de los scrpits que se usan para mover el robot.
+```shell
+cd ~/catwin_ws/src
+git clone https://github.com/felipeg17/px_robot
+cd ..
+source devel/setup.bash
+```
+
+Se debe verificar el puerto al que está conectado el robot:
+```shell
+lsusb
+```
+Luego, se dan los permisos respectivos al puerto USB0
+```shell
+ls /dev/tty*
+sudo chmod 777 /dev/ttyUSB0
+```
+Antes de ejecutar el launch se corren las siguientes líneas de código:
+```shell
+catkin build dynamixel_one_motor
+source devel/setup.bash
+```
+Se procede a ejcutar el launch
+```shell
+roslaunch dynamixel_one_motor one_controller.launch
+```
 
 > ## Resultado 
 
