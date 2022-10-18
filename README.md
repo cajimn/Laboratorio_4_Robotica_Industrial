@@ -68,10 +68,11 @@ Por último se abre la aplicación vs Code para ejecutar el programa de Python [
 
 
 
+En este primer video se observa la rutina que al presionar las teclas q, a, s, d y f el robot se dirige a HOME y luego a las posiciones que se piden en la guía de laboratorio. Se puede observar que la posición del robot (sobre todo el HOME) puede no estar totalmente calibrada o ser tan exacta, ya que no está totalmente horizontal, tiene un pequeño ángulo de desfase con respecto a la horizontal.
 
 https://user-images.githubusercontent.com/68668422/196011297-8d86ad41-814a-4f38-b1d9-553ff0dfab27.mp4
 
-
+Se realiza el movimiento hasta una posición deseada desde HOME articulación por articulación. Se sigue observando el desfase que tiene el robot.
 
 https://user-images.githubusercontent.com/68668422/196011293-479089bc-00ba-41f3-8f41-30927088b858.mp4
 
