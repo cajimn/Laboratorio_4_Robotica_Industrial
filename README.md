@@ -11,8 +11,9 @@
 
 ## Procedimiento
 
-> ## Punto de mantenimiento
-
+> ## Determinar parámetros DH
+Se determina los TCP de todas lasartivulaciones de robot, como se ve en la imagen acontinuación
+![WhatsApp Image 2022-10-14 at 4 14 28 PM](https://user-images.githubusercontent.com/68668422/196011269-9272b426-2255-4be2-a015-2875ad0d804b.jpeg)
 
 
 > ## Colocar el funcionamiento de los botones 
@@ -23,7 +24,6 @@
 
 
 
-![WhatsApp Image 2022-10-14 at 4 14 28 PM](https://user-images.githubusercontent.com/68668422/196011269-9272b426-2255-4be2-a015-2875ad0d804b.jpeg)
 
 
 https://user-images.githubusercontent.com/68668422/196011297-8d86ad41-814a-4f38-b1d9-553ff0dfab27.mp4
