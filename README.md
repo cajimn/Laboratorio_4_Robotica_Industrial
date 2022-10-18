@@ -55,8 +55,9 @@ source devel/setup.bash
 ```
 Se procede a ejcutar el launch
 ```shell
-roslaunch dynamixel_one_motor one_controller.launch
+roslaunch px_robot px_controllers.launch
 ```
+Por último se abre la aplicación vs Code para ejecutar el programa de Python [](scripts/prueba2.m)
 
 > ## Resultado 
 
