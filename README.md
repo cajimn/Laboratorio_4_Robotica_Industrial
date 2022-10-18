@@ -16,7 +16,8 @@ Se determina los TCP de todas lasartivulaciones de robot, como se ve en la image
 ![WhatsApp Image 2022-10-14 at 4 14 28 PM](https://user-images.githubusercontent.com/68668422/196011269-9272b426-2255-4be2-a015-2875ad0d804b.jpeg)
 
 
-> ## Colocar el funcionamiento de los botones 
+> ## Programa Python.
+Se realiza la conexión entre dinamyxel y el programa creado en python, el cuál ejecuta con teclas, cada una de las posiciones establecidas en la guía de laboratorio. 
 
 
 
