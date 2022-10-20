@@ -54,7 +54,7 @@ sudo chmod 777 /dev/ttyUSB0
 ```
 Antes de ejecutar el launch se corren las siguientes líneas de código:
 ```shell
-catkin build dynamixel_one_motor
+catkin build px_motor
 source devel/setup.bash
 ```
 Se procede a ejcutar el launch
